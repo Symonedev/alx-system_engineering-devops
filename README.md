@@ -1,1 +1,1 @@
-shel basics
+listing content of current directory
